@@ -1,3 +1,5 @@
+**This is A Prerelease Version of the Fremduino.  There are Likely a Large Amount of Bugs/Faults in This Design.  Please Use Our Current Realese (v0.2.0).**
+
 The Fremduino UNO is a custom microcontroller board modeled after the Arduino UNO.  Note: this board does not follow the same form factor as the genuine Arduino board, so it will not be compatible with most shields.
 
 Features:
