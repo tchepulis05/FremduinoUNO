@@ -4,5 +4,7 @@ Features:
 - Compatible with Arduino IDE
 - USB Type C Input
 - Breakout Connectors for All IO Pins
+- 14 Digital IO Pins
+- 6 Analog Input Pins
 
 The breakout connectors are of the JST-XH type and have 2.54mm of pitch.  Looking at the connector with the notches facing the user, the left most pin is 5V, the middle pin is data, and the right most pin is GND.  Each connector is labeled with the IO pin it connects to.  The individual IO pins are also available if needed.
